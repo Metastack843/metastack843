@@ -14,7 +14,7 @@
 
 <!-- Neural Network Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%E2%9A%A1+Full+Stack+Engineer+%7C+AI%2FML+Architect+%7C+Cloud+Native;%F0%9F%94%AC+Building+Sovereign+Systems+%26+Intelligent+Platforms;%F0%9F%8C%8D+Open+Source+Advocate+%7C+Seeking+Sponsors+%26+Partners;%F0%9F%9A%80+Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%E2%9A%A1+Full+Stack+Engineer+%7C+AI%2FML+Architect+%7C+Cloud+Native;%F0%9F%94%AC+Building+Sovereign+Systems+%26+Intelligent+Platforms;%F0%9F%8C%8D+Open+Source+Advocate+%7C+Seeking+Sponsors+%26+Partners;%F0%9F%9A%80+Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
